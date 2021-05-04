@@ -4,7 +4,7 @@
 
 # About
 
-FirstNext is a Next.js Application 
+A Next.js Application 
 
 # Try it
 
